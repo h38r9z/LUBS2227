@@ -1,1 +1,21 @@
-# LUBS2227
+java c
+LUBS2227 Financial Econometrics 
+Semester One, 2024/2025 
+50% Assignment
+The Capital Asset Pricing Model (CAPM) and Arbitrage Pricing Theory (APT) models offer competing specifications of econometric models of stock returns. In this assignment your task is to build your own dataset and perform. econometric analysis, which sheds light on whether CAPM or APT offers more empirically valid econometric models of stock returns. Your analysis should cover 10 randomly selected companies included in the SP 500 index and you should use datasets with at least 100 monthly observations to estimate any of your econometric models.
+In your written report you should address the following key points:·   Explain the theoretical motivation for your econometric models.·   Explain how you have built your dataset and include descriptive statistics for all variables.·   Report and interpret your econometric results. This should include tables presenting coefficient estimates, a measure of their statistical significance, a measure of fit of your models to the data and names of all variables at minimum.·   Draw conclusions on the empirical validity of CAPM and APT style. models based on the results obtained from your econometric models.
+Any tables included in your assignment should be presented in a style. of a peer reviewed journal in accounting, finance or economics. It is not appropriate to submit screenshots of tables from STATA as part of your assignment and marks for presentation and style. will be deducted for doing so.
+Assignments should be a maximum of 1,000 words in length. This excludes a maximum of 5 tables/figures, which will not count towards the word limit. All coursework assignments that contribute to the assessment of a module are subject to a word limit, as specified on the assessment brief. The word limit is an extremely important aspect of good academic practice, and must be adhered to. Unless stated otherwise in the relevant module handbook (if one has been provided), the word count includes EVERYTHING (i.e. all text in the main body of the assignment including summaries, subtitles, contents pages, tables, supportive material 代 写LUBS2227 Financial Econometrics Semester One, 2024/2025Web
+代做程序编程语言whether in footnotes or in-text references) except the main title, reference list and/or bibliography and any appendices.    It is not acceptable to present matters of substance, which should be included in the main body of the text, in the appendices (“appendix abuse”).    It is not acceptable to attempt to hide words in graphs and diagrams; only text which is strictly necessary should be included in graphs and diagrams.
+You are required to adhere to the word limit specified and state an accurate word count on the cover page of your assignment brief.    Your declared word count must be accurate, and should not mislead. Making a fraudulent statement concerning the work submitted for assessment could be considered academic malpractice and investigated as such.    If the amount of work submitted is higher than that specified by the word limit or that declared on your word count, this may be reflected in the mark awarded and noted through individual feedback given to you.
+The deadline date for this assignment is 12:00:00 noon on Thursday 19th December 2024. An electronic copy of the assignment must be submitted to the Assignment Submission area within the module resource on the Blackboard MINERVA website no later than 12:00:00 noon prompt on the deadline date.
+Faxed, emailed or hard copies of the assignment will not be accepted.
+Failure to meet this initial deadline will result in a reduction of marks, details of which can be found at the following place:
+https://students.business.leeds.ac.uk/assessment/code-of-practice-on-assessment/ 
+SUBMISSION 
+Please ensure that you leave sufficient time to complete the online submission process, as upload times can vary. Accessing the submission link before the deadline does NOT constitute completion of submission. You MUST click the ‘CONFIRM’ button before 12:00:00 noon for your assignment to be classed as submitted on time, if not you will need to submit to the Late Area and your assignment will be marked as late.    It is your responsibility to ensure you upload the correct file to the MINERVA, and that it has uploaded successfully.
+
+
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
